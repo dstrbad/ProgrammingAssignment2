@@ -1,4 +1,4 @@
-## create matrix object that can cache matrix inverse
+## create special "matrix" object and caches inverse
 
 makeCacheMatrix <- function(x = matrix()) {
     m <- NULL
